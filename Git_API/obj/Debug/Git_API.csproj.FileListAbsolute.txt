@@ -1,0 +1,10 @@
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/bin/Debug/Git_API.exe
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/bin/Debug/Git_API.pdb
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/bin/Debug/Nancy.dll
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/bin/Debug/Newtonsoft.Json.dll
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/bin/Debug/Newtonsoft.Json.xml
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/bin/Debug/Nancy.xml
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/obj/Debug/Git_API.csprojAssemblyReference.cache
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/obj/Debug/Git_API.csproj.CopyComplete
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/obj/Debug/Git_API.exe
+/Volumes/MAC/Jarmo/Projects/Git_API/Git_API/obj/Debug/Git_API.pdb
